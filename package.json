@@ -30,6 +30,7 @@
     "flatpickr": "^4.6.9",
     "lodash.throttle": "^4.1.1",
     "notiflix": "^3.2.2",
+    "reset-css": "^5.0.1",
     "simplelightbox": "^2.10.1"
   }
 }
